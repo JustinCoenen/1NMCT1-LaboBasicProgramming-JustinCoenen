@@ -20,9 +20,21 @@
 
 #Oefening 5: bereken de som
 
-number = (input("Geef mij een getal: "))
-n = int(number)
-nn= int(2 * number)
-nnn= int( 3 * number)
+#number = (input("Geef mij een getal: "))
+#n = int(number)
+#nn= int(2 * number)
+#nnn= int( 3 * number)
 
-print(n + nn + nnn)
+#print(n + nn + nnn)
+
+#Oefening 6
+
+number1 = (input("Geef mij een getal: "))
+number2 = (input("Geef mij een getal: "))
+
+x = int(number1)
+y = int(number2)
+
+print((x + y) * (x + y))
+
+
