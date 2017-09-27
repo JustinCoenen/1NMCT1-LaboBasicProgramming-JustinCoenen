@@ -1,4 +1,4 @@
-#oefening 4: seconden omzetten
+#oefening 4: seconden omzetten (niet gelukt)
 
 #time = int(input("Geef mij een aantal seconden:"))
 #print(type (time)) #string -> int
