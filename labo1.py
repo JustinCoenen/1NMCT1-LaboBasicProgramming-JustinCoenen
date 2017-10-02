@@ -29,12 +29,19 @@
 
 #Oefening 6
 
-number1 = (input("Geef mij een getal: "))
-number2 = (input("Geef mij een getal: "))
+#number1 = (input("Geef mij een getal: "))
+#number2 = (input("Geef mij een getal: "))
 
-x = int(number1)
-y = int(number2)
+#x = int(number1)
+#y = int(number2)
 
-print((x + y) * (x + y))
+#print((x + y) * (x + y))
 
+#import datetime, sys, math, calendar
+#print(dir(datetime))
+#print(datetime.date.today())
+#print(sys.version)
 
+#print("De opp van de cirkel met straal {0:.2f} is {1:.2f}".format(1.25, 1.25))
+
+#print("calendar van de maand {0:d} uit het jaar {1:format")

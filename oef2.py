@@ -21,17 +21,19 @@
 
 
 
-dagen = int(input("Geef het aantal dagen op: ")) * 60*60 * 24
-uren = int(input("geef het aantal uren op: ")) * 3600
-minuten = int(input("Geef het aantal minuten op: ")) * 60
-seconden = int(input("Geef het aantal seconden op: "))
-seconds = dagen + uren + minuten + seconden
+#dagen = int(input("Geef het aantal dagen op: ")) * 60*60 * 24
+#uren = int(input("geef het aantal uren op: ")) * 3600
+#minuten = int(input("Geef het aantal minuten op: ")) * 60
+#seconden = int(input("Geef het aantal seconden op: "))
+#seconds = dagen + uren + minuten + seconden
 
-print("Het aantal seconden is {0}.".format(seconds))
+#print("Het aantal seconden is {0}.".format(seconds))
 
 #print("De aantal dagen zijn {0}. De aantal uren zijn {1}. Het aantal minuten zijn {2}. Het aantal seconden is {3}.".format(dagen, uren, minuten, seconden))
 
-test = "dit is een eerste wijziging"
-test2 = "dit is een tweede wijziging"
-test3 = "dit is een derde wijziging"
-test4 = "dit een vierde wijziging"
+#test = "dit is een eerste wijziging"
+#test2 = "dit is een tweede wijziging"
+#test3 = "dit is een derde wijziging"
+#test4 = "dit een vierde wijziging"
+
+seconden = int(input("geef het aantal seconden op: "))
